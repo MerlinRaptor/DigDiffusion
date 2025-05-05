@@ -1,0 +1,1 @@
+Going to implement a diffusion model from scratch.
